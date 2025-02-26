@@ -7,6 +7,7 @@ Bu proje, kullanıcıların `.exe` ve `.lnk` (kısayol) dosyalarını yönetmele
 - `.exe` ve `.lnk` dosyalarını ekleyerek kısayol oluşturma.
 - Otomatik olarak uygulama simgelerini yükleme.
 - Kısayolları listeleme ve tıklanarak çalıştırma.
+- Local Veri Tabanı Kullanarak Kaydetme
 
 ## 🛠️ Gereksinimler
 - Windows 10 veya üzeri
